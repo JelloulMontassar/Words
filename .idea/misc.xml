@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/21696/Desktop/Kotlin/Words/app/src/main/res/layout/activity_main.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/21696/Desktop/Kotlin/Words/app/src/main/res/layout/fragment_letter_list.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/21696/Desktop/Kotlin/Words/app/src/main/res/layout/fragment_word_list.xml" value="0.18489583333333334" />
         <entry key="..\:/Users/21696/Desktop/Kotlin/Words/app/src/main/res/menu/layout_menu.xml" value="0.25" />
       </map>
     </option>
